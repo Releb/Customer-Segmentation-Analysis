@@ -28,7 +28,7 @@ First, we are going to do the good and old check for null values:
 
 Our dataset exhibits a mere 24 missing entries within the ‘income’ attribute, indicative of its substantial consistency and reliability.We’ll fill those with the mean.
 
-#### Create new features to the dataset
+#### Create New Features To The Dataset
 
 New features comes to our rescue
 
