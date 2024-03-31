@@ -1,5 +1,25 @@
 # Customer-Segmentation-Analysis
 
+
+
+<img width="623" alt="PIC" src="https://github.com/Releb/Customer-Segmentation-Analysis/assets/164650018/cc429a27-b144-4837-befe-1a5a8e4d43b9">
+
+
+- [Project-Overview](#project-overview)
+- [Data](#data)
+- [Tools](#tools)
+- [Data-Cleaning-Preparation](#data-cleaning-preparation)
+- [Removing-outliers](#removing-outliers)
+- [Feature Engineering](#feature-Engineering)
+- [K-Means-Clustering](#K-Means-Clustering)
+- [Consolidating-Categorical-Variables](#consolidating-categorical-variables)
+- [Investigating-“accepted_cpm_N”-features](#investigating-“accepted_cpm_N”-features)
+- [Exploratory-Data-Analysis](#exploratory-data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Reference](#reference)
+
+
 ## Project Overview
 
 Customer segmentation is a powerful technique in marketing analytics, where you group customers based on common characteristics. This helps businesses tailor their strategies to target specific groups effectively. In Python, you can use machine learning algorithms like K-Means clustering to segment customers based on various features such as demographics, purchasing behavior, and more.
@@ -318,9 +338,9 @@ Some of these relationships stand out: Let’s plot them.
 
 
 As the number of children in a household increases, 
-- there is a corresponding rise in expenditure,
-- a greater propensity to purchase discounted items,
-- and an uptick in the acquisition of non-essential goods.
+- There is a corresponding rise in expenditure,
+- A greater propensity to purchase discounted items,
+- And an uptick in the acquisition of non-essential goods.
 
 Interestingly, it has been observed that individuals without children at home tend to spend more overall and frequently purchase items at full price, positioning them as  as particularly valuable customers for the company.”
 
@@ -371,7 +391,7 @@ Based on the clusters, tailored marketing strategies can be created. Customers f
 #### Cluster 3: Low value customers in relationship
 - This cluster has the highest percentage of our customers (39%).
 - Family offers and discounts may influence these customers to make more purchases
-- 
+  
 ## Prospects for Subsequent Analysis:
 
 - In-depth Investigation: Assessing the impact of children on product consumption patterns.
