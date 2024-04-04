@@ -4,6 +4,7 @@
 
 <img width="623" alt="PIC" src="https://github.com/Releb/Customer-Segmentation-Analysis/assets/164650018/cc429a27-b144-4837-befe-1a5a8e4d43b9">
 
+## Table of Content
 
 - [Project-Overview](#project-overview)
 - [Data](#data)
